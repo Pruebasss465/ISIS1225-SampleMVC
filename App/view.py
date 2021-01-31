@@ -41,7 +41,7 @@ operación solicitada
 def printMenu():
     print("Opciones:")
     print("1- JEJEJEJEJEJ")
-    print("2- Cargar Tags")
+    print("2- WOWWWW")
     # TO-DO: Modificaciones para completar el laboratorio 1.
     print("0- Salir")
 
